@@ -57,4 +57,7 @@
 </main>
 
 <style>
+  button {
+    margin-top: 1rem;
+  }
 </style>

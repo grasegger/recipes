@@ -649,6 +649,7 @@ var app = (function () {
     			attr_dev(table, "class", "pure-table pure-table-vertical pure-table-striped");
     			add_location(table, file, 29, 6, 644);
     			attr_dev(button, "data-target", Object.keys(/*category*/ ctx[0]));
+    			attr_dev(button, "class", "svelte-1cqk7jf");
     			add_location(button, file, 51, 6, 1300);
     			add_location(section, file, 27, 4, 589);
     		},
