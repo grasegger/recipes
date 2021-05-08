@@ -1,0 +1,117 @@
+- Mahlzeit:
+    Protein:
+      - Wiener
+      - Gulasch
+      - Putenbrust
+      - Hähnchenfleisch
+      - Hackfleisch
+      - Steak
+      - Leberkäse
+      - Ei
+      - Schinken
+      - Salami
+      - Kassler
+
+    Kohlenhydrate:
+      - Semmeln
+      - Brezen
+      - Reis
+      - Pizzateig
+      - Nudeln
+      - Kartoffeln
+      - Blätterteig
+      - Kartoffelspalten
+      - Kartoffelpüre
+      - Sandwhich
+      - Pita
+      - Wraps
+
+    Gemüse:
+      - Kohl
+      - Paprika
+      - Kidney-Bohnen
+      - Karotten
+      - Blumenkohl
+      - Salat
+      - Erbsen
+      - Karottensalat
+
+    Fett:
+      - Mozarella
+      - Bacon
+      - Butteröl
+      - Cocosnuss-Milch
+      - Olivenöl
+      - Butter
+      - Sahne
+      - Käse
+
+    Sonstiges:
+      - Beeren
+      - Pilze
+      - Zwiebel
+      - Kerne
+      - Nüsse
+
+    Kräuter:
+      - Thymian
+      - Knoblauch
+      - Oregano
+      - "Scharfer Paprika"
+      - "Ital. Kräuter"
+
+    Soße:
+      - Frischkäse
+      - Süß-Sauer
+      - "Creme Fresh"
+      - Tomatensoße
+
+- Salat:
+    Basis:
+      - Spinat
+      - Rucolla
+      - Eissalat
+      - "Normaler Salat"
+      - Feldsalat
+      - Salatmix
+
+    Protein:
+      - Wiener
+      - Putenbrust
+      - Hähnchenfleisch
+      - Leberkäse
+      - Ei
+      - Schinken
+      - Feta
+      - Mozarella
+      - "Harter Käse"
+
+    Kohlenhydrate:
+      - Croutons
+      - Brotscheiben
+      - Brezen
+      - Semmeln
+      - Pita
+      - Nudeln
+      - Couscous
+
+    Gemüse1:
+      - Radieschen
+      - Paprika
+      - Apfel
+      - Spargel
+      - Granatapfel
+
+    Gemüse2:
+      - Salatgurke
+      - Karotten
+
+    Sonstiges:
+      - Essiggurke
+      - Beeren
+      - Pilze
+      - Speck
+      - Kerne
+      - Nüsse
+      - "Getrocknete Tomaten"
+      - Pesto
